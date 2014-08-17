@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="limit_exceeded">Przekroczyłes dzienny limit zapytań. Spróbuj ponownie później</string>
+    <string name="request_denied">Twoje zapytanie zostało odrzucone. Spróbuj ponownie</string>
+    <string name="invalid_request">Błędne zapytanie</string>
+    <string name="no_places_found">Nie znaleziono żadnych miejsc. Proszę użyć inne słowo kluczowe</string>
+    <string name="error_try_again">Błąd, proszę spróbować ponownie</string>
+    <string name="speak_any_keyword">Wypowiedz słowo kluczowe związane z miejscem które szukasz, na przykład restauracja</string>
+    <string name="this_place_name_is">Nazwa tego miejsca to</string>
+    <string name="situated_in">znajduje sie</string>
+    <string name="and_located">oddalony</string>
+    <string name="place_distance">Odległość</string>
+    <string name="meters_away">metrów stąd</string>
+    <string name="meters">metrów</string>
+    <string name="at_the_moment">w tej chwili</string>
+    <string name="opened">otwarte</string>
+    <string name="closed">zamknięte</string>
+    <string name="distance">Dystans [metr]</string>
+    <string name="press_button">Naciśnij poniższy przycisk</string>
+    <string name="request_all_poi">Wyszukaj wszystkie miejsca</string>
+    <string name="key_based_request">Słowne wyszukiwanie</string>
+    <string name="general_request">Wyszukaj wszystko</string>
+    <string name="get_direction">Sprawdź drogę</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="for_distance">przez</string>
+    <string name="on_the_hour">na godzinę</string>
+    <string name="start_searching">Wyszukaj</string>
+    <string name="enter_keyword">Wpisz słowo</string>
+    <string name="map">Mapa miejsca</string>
+    <string name="deacrese_distance">Zmniejsz dystans</string>
+    <string name="increase_distance">Zwiększ dystans</string>
+    <string name="search_place_field">Pole wyszukiwania</string>
+</resources>

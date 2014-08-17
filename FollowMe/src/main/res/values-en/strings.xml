@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="limit_exceeded">You exceed daily request limit. Please try again later</string>
+    <string name="request_denied">Your request has been denied, try again</string>
+    <string name="invalid_request">Invalid request</string>
+    <string name="no_places_found">No places found, please use another keyword</string>
+    <string name="error_try_again">Error, please try again</string>
+    <string name="speak_any_keyword">Speak out any keyword related to place you are looking for, for example restaurant</string>
+    <string name="this_place_name_is">This place name is</string>
+    <string name="situated_in">situated in</string>
+    <string name="and_located">located</string>
+    <string name="place_distance">Distance</string>
+    <string name="meters_away">meters away</string>
+    <string name="meters">meters</string>
+    <string name="at_the_moment">at the moment</string>
+    <string name="opened">opened</string>
+    <string name="closed">closed</string>
+    <string name="distance">Distance [meters]</string>
+    <string name="press_button">Press the button below</string>
+    <string name="request_all_poi">Request all POIs</string>
+    <string name="key_based_request">Specific discover</string>
+    <string name="general_request">Discover nearby</string>
+    <string name="get_direction">Get direction</string>
+    <string name="please_wait">Please wait</string>
+    <string name="for_distance">for</string>
+    <string name="on_the_hour">on the hour</string>
+    <string name="start_searching">Start searching</string>
+    <string name="enter_keyword">Enter keyword</string>
+    <string name="map">Place map</string>
+    <string name="deacrese_distance">Decrease distance</string>
+    <string name="increase_distance">Increase distance</string>
+    <string name="search_place_field">Search field</string>
+</resources>

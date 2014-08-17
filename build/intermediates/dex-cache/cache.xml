@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/gson-2.2.2-b677929c4395881c0fa7a40b22d7b8fc9994485c.jar"
+        jar="/Users/rafalwesolowski/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908"/>
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/classes-e9632f0228baa8d6dd2b87776bd388758604d7f6.jar"
+        jar="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0840d832d8a8c4fde01e623f2817332801e6bb49"/>
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/library-1.0.2-021fb817d4b825eac57462b7113213d06a958966.jar"
+        jar="/Users/rafalwesolowski/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.2/d1cfcc430498440da1017116394e0098aff03aa8/library-1.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1cfcc430498440da1017116394e0098aff03aa8"/>
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/Helpshift-ee0006f6c6c24ad4813f553a434b89265171929c.jar"
+        jar="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/build/intermediates/exploded-aar/com.helpshift/android-aar/3.4.1/libs/Helpshift.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2cc674e75a583d0d9a0e7f3c2cc9cb9e068e1a3a"/>
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/classes-10b1dbc7eb9a4505de19662bed744512eb6f2608.jar"
+        jar="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.3.23/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4"/>
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/support-v4-19.0.1-3bf117e59e2e0f41bbf9219f2be90cdcf1dd583d.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/FollowMe/build/intermediates/pre-dexed/debug/classes-c7b0d649368f218f8ab035afc1f8035d7c58b960.jar"
+        jar="/Users/rafalwesolowski/Development/Android/AndroidStudioProjects/FollowMe/build/intermediates/exploded-aar/com.helpshift/android-aar/3.4.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="34935194f80087adede969beecf1816e39af259d"/>
+
+</pre-dex-items>
