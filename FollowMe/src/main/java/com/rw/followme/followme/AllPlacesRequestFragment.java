@@ -37,7 +37,6 @@ public class AllPlacesRequestFragment extends Fragment implements LocationListen
     private TextToSpeech textToSpeech;
     private Button poiRequestButton;
     private Context context;
-    private TextView txtText;
     private WebClient client;
     private LocationClient locationClient;
     private LocationManager locationManager;

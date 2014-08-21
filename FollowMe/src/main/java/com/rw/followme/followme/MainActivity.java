@@ -37,7 +37,6 @@ public class MainActivity extends FragmentActivity implements AdapterView.OnItem
     private ListView drawerList;
     private ActionBarDrawerToggle drawerToggle;
     private TextToSpeech textToSpeech;
-    private PlaceNearby response;
 
     public MainActivity(){
         fragments = new ArrayList<Fragment>();
@@ -152,15 +151,10 @@ public class MainActivity extends FragmentActivity implements AdapterView.OnItem
 
     @Override
     public void showOnMap(PlaceNearby response, Location currentLocation) {
-        this.response = response;
         Intent resultIntent = new Intent(this, ResultActivity.class);
         resultIntent.putExtra(getString(R.string.places_object), new Gson().toJson(response));
         resultIntent.putExtra(getString(R.string.current_location), new Gson().toJson(currentLocation));
         startActivity(resultIntent);
-    }
-
-    public PlaceNearby getResponse(){
-        return this.response;
     }
 
     @Override
